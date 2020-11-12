@@ -6,7 +6,7 @@ Uber Pickup analysis using Spatial Temporal Analysis &amp; Geo-Spatial Clusterin
 <p float="left">
 <img src="./Demo/demo1.gif" width="400" height="250"/>
 <img src="./Demo/demo2.gif" width="400" height="250"/>
-<figcaption>Temporal Analysis & Business analysis with Competitors<\t>Airports in depth analysis:</figcaption> 
+<figcaption> 1. Temporal Analysis & Business analysis with Competitors     2. Airports in depth analysis:</figcaption> 
 </p>
 
 # Business Need:
