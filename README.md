@@ -3,7 +3,7 @@ Uber Pickup analysis using Spatial Temporal Analysis &amp; Geo-Spatial Clusterin
 
 * This project explores the spatio-temporal patterns of taxi-service apps and taxi pick-up data and uses geo spatial clustering to make decisions from calculating pricing to finding the optimal positioning of cabs/drivers to maximize profits of the cab-share business. 
 
-![Dashboard Demo](Demo/demo1.gif)
+![Dashboard Demo](<img src="Demo/demo1.gif" width="48">)
 ![Airports in Depth](Demo/demo2.gif)
 
 # Business Need:
