@@ -3,7 +3,12 @@ Uber Pickup analysis using Spatial Temporal Analysis &amp; Geo-Spatial Clusterin
 
 * This project explores the spatio-temporal patterns of taxi-service apps and taxi pick-up data and uses geo spatial clustering to make decisions from calculating pricing to finding the optimal positioning of cabs/drivers to maximize profits of the cab-share business. 
 
-![Dashboard Demo](Demo/demo1.gif)
+<p float="left">
+<img src="./Demo/demo1.gif" width="400" height="250"/>
+<img src="./Demo/demo2.gif" width="400" height="250"/>
+<figcaption> 1. Temporal Analysis & Business analysis with Competitors     2. Airports in depth analysis:</figcaption> 
+</p>
+
 # Business Need:
 * According to Gartner, by 2022, more than a  quarter billion connected vehicles will form a major element of the Internet of Things. Connected vehicles are projected to generate 25GB of data per hour, which can be analyzed to provide real-time monitoring and apps, and will lead to new concepts of mobility and vehicle usage.
 
