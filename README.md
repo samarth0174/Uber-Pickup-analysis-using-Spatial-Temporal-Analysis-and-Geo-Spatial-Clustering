@@ -9,6 +9,13 @@ Uber Pickup analysis using Spatial Temporal Analysis &amp; Geo-Spatial Clusterin
 <figcaption> 1. Temporal Analysis & Business analysis with Competitors     2. Airports in depth analysis:</figcaption> 
 </p>
 
+
+<p float="left">
+<img src="./Demo/demo3.gif" width="400" height="250"/>
+<img src="./Demo/demo4.png" width="400" height="250"/>
+<figcaption> 3. Base Station & Identified hubs     4. Active Vehicle analysis:</figcaption> 
+</p>
+
 # Business Need:
 * According to Gartner, by 2022, more than a  quarter billion connected vehicles will form a major element of the Internet of Things. Connected vehicles are projected to generate 25GB of data per hour, which can be analyzed to provide real-time monitoring and apps, and will lead to new concepts of mobility and vehicle usage.
 
