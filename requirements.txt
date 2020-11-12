@@ -1,0 +1,9 @@
+streamlit==0.69
+pandas
+numpy
+altair
+pydeck
+matplotlib
+mpl_toolkits
+streamlit_folium
+seaborn

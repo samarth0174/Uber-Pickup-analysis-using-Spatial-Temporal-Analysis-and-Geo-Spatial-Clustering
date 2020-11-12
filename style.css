@@ -1,0 +1,90 @@
+body {
+    color: #d8dada;
+    background-color: #2b343a;
+}
+.streamlit-expanderHeader {
+
+	color: #d8dada
+}
+
+p{
+	/*background-color: #1c4e80*/
+	color: #d8dada
+}
+
+ol {
+	/*background-color: #1c4e80*/
+	color: #d8dada
+}
+
+li{
+	/*background-color: #1c4e80*/
+	color: #d8dada
+}
+
+
+label{
+	/*background-color: #1c4e80*/
+	color: #fff;
+}
+/*
+.dataframe{
+	color: #fff;
+}*/
+
+.st-bu{
+	background-color: #2b343a;
+	color: #d8dada;
+}
+/*
+markdown-text-container{
+	background-color: #1c4e80
+	}
+*/
+canvas {
+	color: #fff
+	background-color: #fff
+}
+
+.dataframe
+{
+	color: #fff
+}
+
+img{
+	background-color: #fff
+}
+/*#1c4e80*/
+/*
+.stButton>button {
+    color: #FFF;
+    border-radius: 50%;
+    height: 3em;
+    width: 3em;
+}
+
+
+
+
+canvas {
+	color: #2A0048
+}
+
+.st-bp{
+
+	color: #FFF;
+}
+
+.stSlider{
+
+	color: #FFF;
+}
+
+label { 
+
+	background-color: #FFF;
+	color : #FFF;
+
+ }
+
+*/
