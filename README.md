@@ -1,4 +1,4 @@
-# Uber-Pickup-analysis-using-Spatial-Temporal-Analysis-and-Geo-Spatial-Clustering
+# Uber-Pickup-analysis-using-Spatial-Temporal-Analysis-and-Geo-Spatial-Clustering (Streamlit Web App)
 Uber Pickup analysis using Spatial Temporal Analysis &amp; Geo-Spatial Clustering
 
 * This project explores the spatio-temporal patterns of taxi-service apps and taxi pick-up data and uses geo spatial clustering to make decisions from calculating pricing to finding the optimal positioning of cabs/drivers to maximize profits of the cab-share business. 
