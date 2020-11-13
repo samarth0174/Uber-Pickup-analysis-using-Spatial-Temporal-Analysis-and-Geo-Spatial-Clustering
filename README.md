@@ -21,7 +21,7 @@ Uber Pickup analysis using Spatial Temporal Analysis &amp; Geo-Spatial Clusterin
 
 * With the emerging app-based on demand taxi services , the competition in the market is increasing. Thus companies are using quantitative analysis of their app and taxi demands for neighborhoods of cities.
 
-# Major Analysis Points to be answered:
+# Major Analysis Points Investigated:
 1. Spatio-temporal analysis :Exploring trip data
 * Getting inference about the number of trips per hour/day/week/Month.
 * Number of trips completed per cab
@@ -34,9 +34,13 @@ Uber Pickup analysis using Spatial Temporal Analysis &amp; Geo-Spatial Clusterin
 * optimal placing of their vehicles at different time of the day.
 * Use these centroids for optimal pricing by analyzing which cluster deals with maximum requests, peak times etc.
 
-3. Business analysis with Competitors & Active Vehicles Analysis
-
-4. Web based Dashboard (Built Using Streamlit)
+3. Business analysis with Competitors:
+  * Business Growth in cummulative months 
+  * Competiton with other Cab Services like Lyft , Skyline , Fedral etc.
+4. Active Vehicle Analysis:
+  * No of active vehicles & trips
+  * Trips per Vehicle
+5. Web based Dashboard (Built Using Streamlit)
 
 
 
