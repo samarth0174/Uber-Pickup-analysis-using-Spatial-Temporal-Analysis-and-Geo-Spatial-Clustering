@@ -21,25 +21,25 @@ Uber Pickup analysis using Spatial Temporal Analysis &amp; Geo-Spatial Clusterin
 
 * With the emerging app-based on demand taxi services , the competition in the market is increasing. Thus companies are using quantitative analysis of their app and taxi demands for neighborhoods of cities.
 
-# Major Analysis Points Investigated:
+# Major Analysis Points:
 1. Spatio-temporal analysis :Exploring trip data
-* Getting inference about the number of trips per hour/day/week/Month.
-* Number of trips completed per cab
-* How different base stations are performing each month.
-* Which base stations are best for different perspectives like businesses - may help us do price surge because of demand.
+     * Getting inference about the number of trips per hour/day/week/Month.
+     * Number of trips completed per cab
+     * How different base stations are performing each month.
+     * Which base stations are best for different perspectives like businesses - may help us do price surge because of demand.
 
 2. Geo Spatial Clustering: A better perspective:
-* Use clustering techniques to find various spatial hotspots.
-* Strategically place the driver’s in good locations(within these clusters) where in probability of getting a ride request are huge.
-* optimal placing of their vehicles at different time of the day.
-* Use these centroids for optimal pricing by analyzing which cluster deals with maximum requests, peak times etc.
+     * Use clustering techniques to find various spatial hotspots.
+     * Strategically place the driver’s in good locations(within these clusters) where in probability of getting a ride request are huge.
+     * optimal placing of their vehicles at different time of the day.
+     * Use these centroids for optimal pricing by analyzing which cluster deals with maximum requests, peak times etc.
 
 3. Business analysis with Competitors:
-  * Business Growth in cummulative months 
-  * Competiton with other Cab Services like Lyft , Skyline , Fedral etc.
+    * Business Growth in cummulative months 
+    * Competiton with other Cab Services like Lyft , Skyline , Fedral etc.
 4. Active Vehicle Analysis:
-  * No of active vehicles & trips
-  * Trips per Vehicle
+    * No of active vehicles & trips
+    * Trips per Vehicle
 5. Web based Dashboard (Built Using Streamlit)
 
 
