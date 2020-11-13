@@ -251,7 +251,7 @@ def temporal():
 	col21,col22 = st.beta_columns((3,2))
 
 	with col21:
-		img=mpimg.imread('pickup.png')
+		img=mpimg.imread('plots/pickup.png')
 		st.image(img,width=720,height=520)
 		with st.beta_expander("Key Points:"):
 			st.write("""1. We see that in working days there's a pulse at 7:00 and 8:00, it corresponds to the hour where the employees go to work. **(Price Surge)**""") 
@@ -262,7 +262,7 @@ def temporal():
 		
 
 	with col22:
-		img=mpimg.imread('hour_day.png')
+		img=mpimg.imread('plots/hour_day.png')
 		st.image(img,width=520,height=520)
 
 		
@@ -321,11 +321,11 @@ def base():
 				""")
 
 	with col_b2:
-		img=mpimg.imread('baseW.png')
+		img=mpimg.imread('plots/baseW.png')
 		st.image(img, caption='HeatMap by Weekday and Bases',width=520)
 
 	with col_b3:
-		img=mpimg.imread('baseM.png')
+		img=mpimg.imread('plots/baseM.png')
 		st.image(img, caption='HeatMap by Month and Bases',width=520)
 
 
@@ -389,12 +389,12 @@ def spatial(data1):
 	col_s1,col_s2 = st.beta_columns((2,2))
 
 	with col_s1:
-		img=mpimg.imread('index.png')
+		img=mpimg.imread('plots/index.png')
 		st.image(img, caption='New York Uber Pickups from April to September 2014',width=720)
 
 
 	with col_s2:
-		img=mpimg.imread('index1.png')
+		img=mpimg.imread('plots/index1.png')
 		st.image(img, caption='New York Uber Pickups from April to September 2014',width=720)
 
 
@@ -529,14 +529,14 @@ def geo_clustering():
 	col_c1,col_c2,col_c3 = st.beta_columns((2,2,2))
 
 	with col_c1:
-		img=mpimg.imread('kmeans.png')
+		img=mpimg.imread('plots/kmeans.png')
 		st.image(img, caption='Elbow Method - no of clusters identifies : 6',width=520,height=720)
 		
 	with col_c2:
 		cluster()
 	
 	with col_c3:
-		img=mpimg.imread('index2.png')
+		img=mpimg.imread('plots/index2.png')
 		st.image(img, caption='Hubs Covered regions',width=600,height=720)
 		
 
@@ -676,11 +676,11 @@ def Business():
 
 
 	with colb1:
-		img=mpimg.imread('UberVsother.png')
+		img=mpimg.imread('plots/UberVsother.png')
 		st.image(img, caption='Uber Business vs other businesses',width=720)
 
 	with colb2:
-		img1=mpimg.imread('growth.png')
+		img1=mpimg.imread('plots/growth.png')
 		st.image(img1,width=720)
 		
 	colm1,colm2,colm3 = st.beta_columns((2,2,2))
@@ -701,11 +701,11 @@ def Business():
 	colb1,colb2 = st.beta_columns((2,2))
 
 	with colb1:
-		img=mpimg.imread('monthly.png')
+		img=mpimg.imread('plots/monthly.png')
 		st.image(img, caption='',width=720)
 
 	with colb2:
-		img1=mpimg.imread('gwothmonth.png')
+		img1=mpimg.imread('plots/gwothmonth.png')
 		st.image(img1,width=720)
 
 	colmb1,colmb2,colmb3 = st.beta_columns((2,2,2))
@@ -723,11 +723,11 @@ def Business():
 	colu1,colu2 = st.beta_columns((2,2))
 
 	with colu1:
-		img=mpimg.imread('index.png')
+		img=mpimg.imread('plots/index.png')
 		st.image(img, caption='Uber Pickup Regions',width=720)
 
 	with colu2:
-		img1=mpimg.imread('Lyft_heat.png')
+		img1=mpimg.imread('plots/Lyft_heat.png')
 		st.image(img1,caption='Lyft Pickup Regions',width=720)
 
 
